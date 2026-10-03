@@ -7,8 +7,6 @@ This is where CanIL's research and innovation work lives in the open.
 ## Projects
 
 - **[TaBiThA](https://tabitha.bible)**: a translation platform built around a semantic encoding of the biblical text, with tools for sources, ontology, target-language lexicons, and AI-assisted translation guidance.
-- **[tbta-python-processing](https://github.com/CanIL-CA/tbta-python-processing)**: scripts for TBTA text and file processing.
-- **[tbta-signwriting-target](https://github.com/CanIL-CA/tbta-signwriting-target)**: renders TBTA sign-language output as SignWriting PDFs.
 
 ## Connect
 
